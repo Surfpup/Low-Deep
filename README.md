@@ -6,3 +6,21 @@ World 1-8 takes about 1 hours 30 minutes or more to complete, but it may take lo
 I just finished Dragula, and now I’m moving on to another boss, Queen Spider Web. We’ll see what the next boss is soon!
 
 I have a hard time playing because I can only use one hand, but I’m still able to do it! I’m proud of what I’ve accomplished!
+
+I just added Abilities, Bosses, HP and more.
+
+Abilities:
+* Dash
+* Double Jump
+* Grip
+* Wings
+
+List of Worlds and floors:
+* World 1: Rooms 1-12
+* World 2: Rooms 1-10
+* World 3: Rooms 1-10
+* World 4: Rooms 1-16
+* World 5: Rooms 1-18
+* World 6: Rooms 1-20
+* World 7: Rooms 1-22
+* World 8: Rooms 1-26
