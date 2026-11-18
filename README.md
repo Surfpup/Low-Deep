@@ -11,7 +11,6 @@ I just added Abilities, Bosses, HP and more.
 
 Abilities:
 * Dash
-* Double Jump
 * Grip
 * Wings
 
